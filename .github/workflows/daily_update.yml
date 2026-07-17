@@ -25,7 +25,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run FPL Script
-        run: python top_10_players.py # استبدل 'top_10_players.py' باسم ملف الكود الخاص بك
+        run: python top_10k_players.py # استبدل 'top_10k_players.py' باسم ملف الكود الخاص بك
 
       - name: Commit and Push changes
         run: |
