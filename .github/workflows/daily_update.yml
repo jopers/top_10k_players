@@ -31,6 +31,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add fpl_elite_data.json fpl_elite_data.db
+          git add top_10k_data.json top_10k_data.db
           git commit -m "Update FPL Elite Data - $(date)" || echo "No changes to commit"
           git push
