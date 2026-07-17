@@ -9,8 +9,8 @@ from tqdm import tqdm
 BASE_URL = "https://fantasy.premierleague.com/api/"
 TOP_MANAGERS_COUNT = 10000
 THREADS = 25 # عدد الخيوط المتوازية لزيادة السرعة
-JSON_OUTPUT = 'fpl_elite_data.json'
-DB_OUTPUT = 'fpl_elite_data.db'
+JSON_OUTPUT = 'top_10k_data.json'
+DB_OUTPUT = 'top_10k_data.db'
 
 def get_current_gw():
     res = requests.get(f"{BASE_URL}bootstrap-static/").json()
@@ -87,12 +87,12 @@ def main():
         p_id = p['id']
         players_info[p_id] = {
             "player_id": p_id,
-            "name": p['web_name'],
+            "web_name": p['web_name'],
             "team": teams_map[p['team']],
-            "global_selection_pct": float(p['selected_by_percent']),
-            "elite_starter_selection_pct": 0, # سيحسب لاحقاً
-            "current_price": p['now_cost'] / 10,
-            "price_change_event": p['cost_change_event'] / 10,
+            "global_selected": float(p['selected_by_percent']),
+            "Top_10k_selected": 0, # سيحسب لاحقاً
+            "now_cost": p['now_cost'] / 10,
+            "cost_change_event": p['cost_change_event'] / 10,
             "last_gw_points": live_data.get(p_id, {}).get('total_points', 0),
             "last_gw_minutes": live_data.get(p_id, {}).get('minutes', 0),
             "_internal_count": 0 # مؤقت للحساب
