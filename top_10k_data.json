@@ -4,8 +4,8 @@
         "web_name": "Raya",
         "team": "Arsenal",
         "element_type": 1,
-        "global_selected": 43.7,
-        "Top_10k_selected": 42.32,
+        "global_selected": 43.8,
+        "Top_10k_selected": 43.7,
         "now_cost": 6.1,
         "last_gw_points": 3,
         "last_gw_minutes": 90
@@ -37,8 +37,8 @@
         "web_name": "Gabriel",
         "team": "Arsenal",
         "element_type": 2,
-        "global_selected": 22.3,
-        "Top_10k_selected": 3.14,
+        "global_selected": 22.0,
+        "Top_10k_selected": 2.83,
         "now_cost": 7.9,
         "last_gw_points": 2,
         "last_gw_minutes": 90
@@ -49,7 +49,7 @@
         "team": "Arsenal",
         "element_type": 2,
         "global_selected": 0.6,
-        "Top_10k_selected": 0.14,
+        "Top_10k_selected": 0.13,
         "now_cost": 6.5,
         "last_gw_points": 1,
         "last_gw_minutes": 27
@@ -81,8 +81,8 @@
         "web_name": "Calafiori",
         "team": "Arsenal",
         "element_type": 2,
-        "global_selected": 51.7,
-        "Top_10k_selected": 96.27,
+        "global_selected": 52.0,
+        "Top_10k_selected": 95.18,
         "now_cost": 5.9,
         "last_gw_points": 9,
         "last_gw_minutes": 81
@@ -104,7 +104,7 @@
         "team": "Arsenal",
         "element_type": 2,
         "global_selected": 4.4,
-        "Top_10k_selected": 1.57,
+        "Top_10k_selected": 1.32,
         "now_cost": 5.4,
         "last_gw_points": 5,
         "last_gw_minutes": 62
@@ -115,7 +115,7 @@
         "team": "Arsenal",
         "element_type": 2,
         "global_selected": 1.5,
-        "Top_10k_selected": 0.1,
+        "Top_10k_selected": 0.14,
         "now_cost": 5.3,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -125,8 +125,8 @@
         "web_name": "Saka",
         "team": "Arsenal",
         "element_type": 3,
-        "global_selected": 17.1,
-        "Top_10k_selected": 26.82,
+        "global_selected": 16.9,
+        "Top_10k_selected": 22.1,
         "now_cost": 9.6,
         "last_gw_points": 2,
         "last_gw_minutes": 90
@@ -136,8 +136,8 @@
         "web_name": "Rice",
         "team": "Arsenal",
         "element_type": 3,
-        "global_selected": 10.7,
-        "Top_10k_selected": 0.19,
+        "global_selected": 10.8,
+        "Top_10k_selected": 0.25,
         "now_cost": 7.3,
         "last_gw_points": 7,
         "last_gw_minutes": 90
@@ -148,7 +148,7 @@
         "team": "Arsenal",
         "element_type": 3,
         "global_selected": 1.1,
-        "Top_10k_selected": 0.05,
+        "Top_10k_selected": 0.02,
         "now_cost": 6.2,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -158,8 +158,8 @@
         "web_name": "Ødegaard",
         "team": "Arsenal",
         "element_type": 3,
-        "global_selected": 20.2,
-        "Top_10k_selected": 15.57,
+        "global_selected": 20.0,
+        "Top_10k_selected": 14.73,
         "now_cost": 6.8,
         "last_gw_points": 1,
         "last_gw_minutes": 89
@@ -257,8 +257,8 @@
         "web_name": "Gyökeres",
         "team": "Arsenal",
         "element_type": 4,
-        "global_selected": 3.8,
-        "Top_10k_selected": 0.53,
+        "global_selected": 3.7,
+        "Top_10k_selected": 0.39,
         "now_cost": 7.1,
         "last_gw_points": 1,
         "last_gw_minutes": 27
@@ -268,8 +268,8 @@
         "web_name": "Havertz",
         "team": "Arsenal",
         "element_type": 4,
-        "global_selected": 6.7,
-        "Top_10k_selected": 0.14,
+        "global_selected": 6.6,
+        "Top_10k_selected": 0.16,
         "now_cost": 7.5,
         "last_gw_points": 2,
         "last_gw_minutes": 62
@@ -291,7 +291,7 @@
         "team": "Arsenal",
         "element_type": 2,
         "global_selected": 17.3,
-        "Top_10k_selected": 30.25,
+        "Top_10k_selected": 26.28,
         "now_cost": 4.6,
         "last_gw_points": 4,
         "last_gw_minutes": 90
@@ -301,8 +301,8 @@
         "web_name": "Bruno G.",
         "team": "Arsenal",
         "element_type": 3,
-        "global_selected": 1.9,
-        "Top_10k_selected": 0.06,
+        "global_selected": 2.0,
+        "Top_10k_selected": 0.07,
         "now_cost": 6.7,
         "last_gw_points": 9,
         "last_gw_minutes": 27
@@ -312,8 +312,8 @@
         "web_name": "Tzolis",
         "team": "Arsenal",
         "element_type": 3,
-        "global_selected": 7.3,
-        "Top_10k_selected": 0.2,
+        "global_selected": 6.9,
+        "Top_10k_selected": 0.17,
         "now_cost": 6.3,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -346,7 +346,7 @@
         "team": "Aston Villa",
         "element_type": 2,
         "global_selected": 4.5,
-        "Top_10k_selected": 0.1,
+        "Top_10k_selected": 0.08,
         "now_cost": 4.4,
         "last_gw_points": 0,
         "last_gw_minutes": 90
@@ -434,7 +434,7 @@
         "team": "Aston Villa",
         "element_type": 3,
         "global_selected": 1.2,
-        "Top_10k_selected": 0.32,
+        "Top_10k_selected": 0.38,
         "now_cost": 5.9,
         "last_gw_points": 4,
         "last_gw_minutes": 63
@@ -455,8 +455,8 @@
         "web_name": "McGinn",
         "team": "Aston Villa",
         "element_type": 3,
-        "global_selected": 2.3,
-        "Top_10k_selected": 0.34,
+        "global_selected": 2.4,
+        "Top_10k_selected": 0.53,
         "now_cost": 5.4,
         "last_gw_points": 10,
         "last_gw_minutes": 90
@@ -521,7 +521,7 @@
         "web_name": "George Hemmings",
         "team": "Aston Villa",
         "element_type": 3,
-        "global_selected": 1.1,
+        "global_selected": 1.0,
         "Top_10k_selected": 0.01,
         "now_cost": 4.5,
         "last_gw_points": 0,
@@ -543,8 +543,8 @@
         "web_name": "Manzambi",
         "team": "Aston Villa",
         "element_type": 3,
-        "global_selected": 0.8,
-        "Top_10k_selected": 0.46,
+        "global_selected": 0.9,
+        "Top_10k_selected": 0.45,
         "now_cost": 5.9,
         "last_gw_points": 5,
         "last_gw_minutes": 85
@@ -589,7 +589,7 @@
         "element_type": 3,
         "global_selected": 0.3,
         "Top_10k_selected": 0.0,
-        "now_cost": 5.8,
+        "now_cost": 5.7,
         "last_gw_points": 0,
         "last_gw_minutes": 0
     },
@@ -598,9 +598,9 @@
         "web_name": "N.Jackson",
         "team": "Aston Villa",
         "element_type": 4,
-        "global_selected": 2.1,
-        "Top_10k_selected": 0.6,
-        "now_cost": 6.5,
+        "global_selected": 2.3,
+        "Top_10k_selected": 0.48,
+        "now_cost": 6.6,
         "last_gw_points": 9,
         "last_gw_minutes": 90
     },
@@ -632,7 +632,7 @@
         "team": "Aston Villa",
         "element_type": 1,
         "global_selected": 1.9,
-        "Top_10k_selected": 0.17,
+        "Top_10k_selected": 0.24,
         "now_cost": 5.0,
         "last_gw_points": 2,
         "last_gw_minutes": 90
@@ -698,7 +698,7 @@
         "team": "Aston Villa",
         "element_type": 3,
         "global_selected": 0.1,
-        "Top_10k_selected": 0.01,
+        "Top_10k_selected": 0.0,
         "now_cost": 6.0,
         "last_gw_points": 1,
         "last_gw_minutes": 26
@@ -720,7 +720,7 @@
         "team": "Bournemouth",
         "element_type": 1,
         "global_selected": 2.9,
-        "Top_10k_selected": 0.06,
+        "Top_10k_selected": 0.09,
         "now_cost": 4.5,
         "last_gw_points": 0,
         "last_gw_minutes": 90
@@ -731,7 +731,7 @@
         "team": "Bournemouth",
         "element_type": 1,
         "global_selected": 3.5,
-        "Top_10k_selected": 0.0,
+        "Top_10k_selected": 0.01,
         "now_cost": 4.0,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -742,7 +742,7 @@
         "team": "Bournemouth",
         "element_type": 1,
         "global_selected": 0.1,
-        "Top_10k_selected": 0.0,
+        "Top_10k_selected": 0.01,
         "now_cost": 4.0,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -764,7 +764,7 @@
         "team": "Bournemouth",
         "element_type": 2,
         "global_selected": 2.9,
-        "Top_10k_selected": 0.0,
+        "Top_10k_selected": 0.01,
         "now_cost": 5.4,
         "last_gw_points": -1,
         "last_gw_minutes": 83
@@ -841,7 +841,7 @@
         "team": "Bournemouth",
         "element_type": 3,
         "global_selected": 7.3,
-        "Top_10k_selected": 2.3,
+        "Top_10k_selected": 2.33,
         "now_cost": 6.1,
         "last_gw_points": 1,
         "last_gw_minutes": 72
@@ -851,9 +851,9 @@
         "web_name": "Scott",
         "team": "Bournemouth",
         "element_type": 3,
-        "global_selected": 4.1,
-        "Top_10k_selected": 0.04,
-        "now_cost": 6.1,
+        "global_selected": 3.8,
+        "Top_10k_selected": 0.03,
+        "now_cost": 6.0,
         "last_gw_points": 0,
         "last_gw_minutes": 0
     },
@@ -886,7 +886,7 @@
         "element_type": 3,
         "global_selected": 0.1,
         "Top_10k_selected": 0.0,
-        "now_cost": 4.9,
+        "now_cost": 4.8,
         "last_gw_points": 1,
         "last_gw_minutes": 45
     },
@@ -941,7 +941,7 @@
         "element_type": 3,
         "global_selected": 0.0,
         "Top_10k_selected": 0.0,
-        "now_cost": 4.9,
+        "now_cost": 4.8,
         "last_gw_points": 0,
         "last_gw_minutes": 0
     },
@@ -962,7 +962,7 @@
         "team": "Bournemouth",
         "element_type": 4,
         "global_selected": 3.4,
-        "Top_10k_selected": 0.19,
+        "Top_10k_selected": 0.31,
         "now_cost": 6.0,
         "last_gw_points": 7,
         "last_gw_minutes": 90
@@ -1039,7 +1039,7 @@
         "team": "Brentford",
         "element_type": 1,
         "global_selected": 6.1,
-        "Top_10k_selected": 0.37,
+        "Top_10k_selected": 0.43,
         "now_cost": 5.0,
         "last_gw_points": 2,
         "last_gw_minutes": 90
@@ -1060,7 +1060,7 @@
         "web_name": "Collins",
         "team": "Brentford",
         "element_type": 2,
-        "global_selected": 0.9,
+        "global_selected": 0.8,
         "Top_10k_selected": 0.0,
         "now_cost": 5.4,
         "last_gw_points": 0,
@@ -1083,7 +1083,7 @@
         "team": "Brentford",
         "element_type": 3,
         "global_selected": 1.6,
-        "Top_10k_selected": 0.05,
+        "Top_10k_selected": 0.09,
         "now_cost": 5.5,
         "last_gw_points": 2,
         "last_gw_minutes": 66
@@ -1094,7 +1094,7 @@
         "team": "Brentford",
         "element_type": 2,
         "global_selected": 3.7,
-        "Top_10k_selected": 3.49,
+        "Top_10k_selected": 2.97,
         "now_cost": 4.5,
         "last_gw_points": 6,
         "last_gw_minutes": 90
@@ -1104,8 +1104,8 @@
         "web_name": "Kayode",
         "team": "Brentford",
         "element_type": 2,
-        "global_selected": 7.5,
-        "Top_10k_selected": 0.45,
+        "global_selected": 7.4,
+        "Top_10k_selected": 0.46,
         "now_cost": 4.6,
         "last_gw_points": 0,
         "last_gw_minutes": 90
@@ -1149,7 +1149,7 @@
         "team": "Brentford",
         "element_type": 2,
         "global_selected": 0.6,
-        "Top_10k_selected": 0.06,
+        "Top_10k_selected": 0.05,
         "now_cost": 4.5,
         "last_gw_points": 1,
         "last_gw_minutes": 45
@@ -1159,8 +1159,8 @@
         "web_name": "Schade",
         "team": "Brentford",
         "element_type": 3,
-        "global_selected": 15.9,
-        "Top_10k_selected": 20.09,
+        "global_selected": 15.5,
+        "Top_10k_selected": 19.71,
         "now_cost": 6.2,
         "last_gw_points": 1,
         "last_gw_minutes": 51
@@ -1204,7 +1204,7 @@
         "team": "Brentford",
         "element_type": 3,
         "global_selected": 2.5,
-        "Top_10k_selected": 0.5,
+        "Top_10k_selected": 0.47,
         "now_cost": 5.0,
         "last_gw_points": 3,
         "last_gw_minutes": 90
@@ -1269,8 +1269,8 @@
         "web_name": "Thiago",
         "team": "Brentford",
         "element_type": 4,
-        "global_selected": 9.4,
-        "Top_10k_selected": 1.22,
+        "global_selected": 9.3,
+        "Top_10k_selected": 1.01,
         "now_cost": 7.8,
         "last_gw_points": 4,
         "last_gw_minutes": 90
@@ -1302,8 +1302,8 @@
         "web_name": "M.Sangaré",
         "team": "Brentford",
         "element_type": 3,
-        "global_selected": 8.6,
-        "Top_10k_selected": 1.99,
+        "global_selected": 8.5,
+        "Top_10k_selected": 1.78,
         "now_cost": 5.6,
         "last_gw_points": 1,
         "last_gw_minutes": 38
@@ -1357,8 +1357,8 @@
         "web_name": "Verbruggen",
         "team": "Brighton",
         "element_type": 1,
-        "global_selected": 21.4,
-        "Top_10k_selected": 44.89,
+        "global_selected": 21.6,
+        "Top_10k_selected": 42.65,
         "now_cost": 4.5,
         "last_gw_points": 9,
         "last_gw_minutes": 90
@@ -1379,8 +1379,8 @@
         "web_name": "F.Kadıoğlu",
         "team": "Brighton",
         "element_type": 2,
-        "global_selected": 1.5,
-        "Top_10k_selected": 0.24,
+        "global_selected": 1.6,
+        "Top_10k_selected": 0.28,
         "now_cost": 4.4,
         "last_gw_points": 9,
         "last_gw_minutes": 90
@@ -1391,7 +1391,7 @@
         "team": "Brighton",
         "element_type": 2,
         "global_selected": 0.3,
-        "Top_10k_selected": 0.01,
+        "Top_10k_selected": 0.0,
         "now_cost": 4.5,
         "last_gw_points": 5,
         "last_gw_minutes": 67
@@ -1401,9 +1401,9 @@
         "web_name": "De Cuyper",
         "team": "Brighton",
         "element_type": 2,
-        "global_selected": 32.6,
-        "Top_10k_selected": 84.06,
-        "now_cost": 5.0,
+        "global_selected": 34.0,
+        "Top_10k_selected": 82.33,
+        "now_cost": 5.1,
         "last_gw_points": 15,
         "last_gw_minutes": 67
     },
@@ -1413,7 +1413,7 @@
         "team": "Brighton",
         "element_type": 2,
         "global_selected": 1.5,
-        "Top_10k_selected": 0.12,
+        "Top_10k_selected": 0.13,
         "now_cost": 4.5,
         "last_gw_points": 1,
         "last_gw_minutes": 30
@@ -1490,7 +1490,7 @@
         "team": "Brighton",
         "element_type": 3,
         "global_selected": 0.5,
-        "Top_10k_selected": 0.0,
+        "Top_10k_selected": 0.01,
         "now_cost": 5.9,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -1500,8 +1500,8 @@
         "web_name": "Groß",
         "team": "Brighton",
         "element_type": 3,
-        "global_selected": 36.9,
-        "Top_10k_selected": 91.03,
+        "global_selected": 38.2,
+        "Top_10k_selected": 89.55,
         "now_cost": 6.0,
         "last_gw_points": 6,
         "last_gw_minutes": 90
@@ -1511,7 +1511,7 @@
         "web_name": "Georginio",
         "team": "Brighton",
         "element_type": 4,
-        "global_selected": 0.4,
+        "global_selected": 0.5,
         "Top_10k_selected": 0.04,
         "now_cost": 5.3,
         "last_gw_points": 4,
@@ -1534,7 +1534,7 @@
         "team": "Brighton",
         "element_type": 3,
         "global_selected": 3.6,
-        "Top_10k_selected": 2.08,
+        "Top_10k_selected": 1.86,
         "now_cost": 5.0,
         "last_gw_points": 5,
         "last_gw_minutes": 87
@@ -1556,7 +1556,7 @@
         "team": "Brighton",
         "element_type": 3,
         "global_selected": 0.4,
-        "Top_10k_selected": 0.03,
+        "Top_10k_selected": 0.04,
         "now_cost": 5.4,
         "last_gw_points": 3,
         "last_gw_minutes": 87
@@ -1632,8 +1632,8 @@
         "web_name": "Kostoulas",
         "team": "Brighton",
         "element_type": 4,
-        "global_selected": 8.2,
-        "Top_10k_selected": 2.13,
+        "global_selected": 8.4,
+        "Top_10k_selected": 2.12,
         "now_cost": 5.6,
         "last_gw_points": 1,
         "last_gw_minutes": 59
@@ -1665,8 +1665,8 @@
         "web_name": "Vuskovic",
         "team": "Brighton",
         "element_type": 2,
-        "global_selected": 4.3,
-        "Top_10k_selected": 6.49,
+        "global_selected": 4.4,
+        "Top_10k_selected": 6.24,
         "now_cost": 5.0,
         "last_gw_points": 8,
         "last_gw_minutes": 90
@@ -1698,8 +1698,8 @@
         "web_name": "Yalcouyé",
         "team": "Brighton",
         "element_type": 3,
-        "global_selected": 3.9,
-        "Top_10k_selected": 0.27,
+        "global_selected": 3.8,
+        "Top_10k_selected": 0.26,
         "now_cost": 4.5,
         "last_gw_points": 1,
         "last_gw_minutes": 22
@@ -1765,7 +1765,7 @@
         "team": "Chelsea",
         "element_type": 1,
         "global_selected": 4.7,
-        "Top_10k_selected": 0.15,
+        "Top_10k_selected": 0.19,
         "now_cost": 5.0,
         "last_gw_points": 3,
         "last_gw_minutes": 90
@@ -1775,9 +1775,9 @@
         "web_name": "Rogers",
         "team": "Chelsea",
         "element_type": 3,
-        "global_selected": 43.4,
-        "Top_10k_selected": 82.83,
-        "now_cost": 7.8,
+        "global_selected": 44.3,
+        "Top_10k_selected": 78.34,
+        "now_cost": 7.9,
         "last_gw_points": 9,
         "last_gw_minutes": 83
     },
@@ -1798,7 +1798,7 @@
         "team": "Chelsea",
         "element_type": 4,
         "global_selected": 0.9,
-        "Top_10k_selected": 0.03,
+        "Top_10k_selected": 0.04,
         "now_cost": 5.9,
         "last_gw_points": 1,
         "last_gw_minutes": 7
@@ -1830,8 +1830,8 @@
         "web_name": "James",
         "team": "Chelsea",
         "element_type": 2,
-        "global_selected": 5.4,
-        "Top_10k_selected": 0.04,
+        "global_selected": 5.2,
+        "Top_10k_selected": 0.06,
         "now_cost": 5.3,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -1886,7 +1886,7 @@
         "team": "Chelsea",
         "element_type": 2,
         "global_selected": 0.7,
-        "Top_10k_selected": 0.02,
+        "Top_10k_selected": 0.03,
         "now_cost": 4.5,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -1897,7 +1897,7 @@
         "team": "Chelsea",
         "element_type": 2,
         "global_selected": 0.8,
-        "Top_10k_selected": 0.01,
+        "Top_10k_selected": 0.0,
         "now_cost": 4.8,
         "last_gw_points": 2,
         "last_gw_minutes": 90
@@ -1930,7 +1930,7 @@
         "team": "Chelsea",
         "element_type": 2,
         "global_selected": 0.6,
-        "Top_10k_selected": 0.03,
+        "Top_10k_selected": 0.06,
         "now_cost": 5.3,
         "last_gw_points": 1,
         "last_gw_minutes": 18
@@ -1940,8 +1940,8 @@
         "web_name": "Palmer",
         "team": "Chelsea",
         "element_type": 3,
-        "global_selected": 24.6,
-        "Top_10k_selected": 64.88,
+        "global_selected": 25.0,
+        "Top_10k_selected": 60.46,
         "now_cost": 9.7,
         "last_gw_points": 8,
         "last_gw_minutes": 87
@@ -1952,7 +1952,7 @@
         "team": "Chelsea",
         "element_type": 3,
         "global_selected": 1.4,
-        "Top_10k_selected": 0.05,
+        "Top_10k_selected": 0.09,
         "now_cost": 6.5,
         "last_gw_points": 5,
         "last_gw_minutes": 82
@@ -1985,7 +1985,7 @@
         "team": "Chelsea",
         "element_type": 3,
         "global_selected": 1.0,
-        "Top_10k_selected": 0.0,
+        "Top_10k_selected": 0.01,
         "now_cost": 5.3,
         "last_gw_points": 2,
         "last_gw_minutes": 71
@@ -2028,9 +2028,9 @@
         "web_name": "João Pedro",
         "team": "Chelsea",
         "element_type": 4,
-        "global_selected": 67.5,
-        "Top_10k_selected": 95.52,
-        "now_cost": 7.7,
+        "global_selected": 68.6,
+        "Top_10k_selected": 93.72,
+        "now_cost": 7.8,
         "last_gw_points": 12,
         "last_gw_minutes": 71
     },
@@ -2072,8 +2072,8 @@
         "web_name": "Lacroix",
         "team": "Chelsea",
         "element_type": 2,
-        "global_selected": 6.6,
-        "Top_10k_selected": 0.06,
+        "global_selected": 6.5,
+        "Top_10k_selected": 0.09,
         "now_cost": 5.9,
         "last_gw_points": 2,
         "last_gw_minutes": 90
@@ -2161,7 +2161,7 @@
         "team": "Coventry City",
         "element_type": 1,
         "global_selected": 0.7,
-        "Top_10k_selected": 0.15,
+        "Top_10k_selected": 0.13,
         "now_cost": 4.5,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -2193,8 +2193,8 @@
         "web_name": "Thomas",
         "team": "Coventry City",
         "element_type": 2,
-        "global_selected": 8.8,
-        "Top_10k_selected": 1.73,
+        "global_selected": 8.7,
+        "Top_10k_selected": 1.87,
         "now_cost": 4.0,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -2215,8 +2215,8 @@
         "web_name": "van Ewijk",
         "team": "Coventry City",
         "element_type": 2,
-        "global_selected": 7.6,
-        "Top_10k_selected": 0.04,
+        "global_selected": 7.5,
+        "Top_10k_selected": 0.03,
         "now_cost": 4.0,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -2425,7 +2425,7 @@
         "team": "Coventry City",
         "element_type": 4,
         "global_selected": 0.8,
-        "Top_10k_selected": 0.0,
+        "Top_10k_selected": 0.02,
         "now_cost": 5.0,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -2568,7 +2568,7 @@
         "team": "Crystal Palace",
         "element_type": 1,
         "global_selected": 1.2,
-        "Top_10k_selected": 0.0,
+        "Top_10k_selected": 0.01,
         "now_cost": 4.9,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -2581,8 +2581,8 @@
         "global_selected": 0.1,
         "Top_10k_selected": 0.02,
         "now_cost": 4.5,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 3,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 202,
@@ -2590,10 +2590,10 @@
         "team": "Crystal Palace",
         "element_type": 2,
         "global_selected": 0.6,
-        "Top_10k_selected": 0.01,
+        "Top_10k_selected": 0.03,
         "now_cost": 4.9,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 4,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 203,
@@ -2601,10 +2601,10 @@
         "team": "Crystal Palace",
         "element_type": 2,
         "global_selected": 0.2,
-        "Top_10k_selected": 0.01,
+        "Top_10k_selected": 0.03,
         "now_cost": 4.8,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 4,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 204,
@@ -2612,10 +2612,10 @@
         "team": "Crystal Palace",
         "element_type": 2,
         "global_selected": 6.0,
-        "Top_10k_selected": 1.12,
+        "Top_10k_selected": 1.84,
         "now_cost": 4.5,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 4,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 205,
@@ -2658,8 +2658,8 @@
         "global_selected": 0.7,
         "Top_10k_selected": 0.01,
         "now_cost": 6.2,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 7
     },
     {
         "player_id": 210,
@@ -2667,10 +2667,10 @@
         "team": "Crystal Palace",
         "element_type": 3,
         "global_selected": 0.7,
-        "Top_10k_selected": 0.0,
+        "Top_10k_selected": 0.01,
         "now_cost": 5.4,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 7,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 211,
@@ -2678,10 +2678,10 @@
         "team": "Crystal Palace",
         "element_type": 3,
         "global_selected": 0.3,
-        "Top_10k_selected": 0.01,
+        "Top_10k_selected": 0.05,
         "now_cost": 5.5,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 9,
+        "last_gw_minutes": 82
     },
     {
         "player_id": 212,
@@ -2689,7 +2689,7 @@
         "team": "Crystal Palace",
         "element_type": 3,
         "global_selected": 6.7,
-        "Top_10k_selected": 0.07,
+        "Top_10k_selected": 0.14,
         "now_cost": 4.4,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -2702,19 +2702,19 @@
         "global_selected": 0.1,
         "Top_10k_selected": 0.0,
         "now_cost": 4.8,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 8,
+        "last_gw_minutes": 71
     },
     {
         "player_id": 214,
         "web_name": "Kamada",
         "team": "Crystal Palace",
         "element_type": 3,
-        "global_selected": 0.5,
-        "Top_10k_selected": 0.06,
+        "global_selected": 0.6,
+        "Top_10k_selected": 0.21,
         "now_cost": 5.0,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 8,
+        "last_gw_minutes": 89
     },
     {
         "player_id": 215,
@@ -2799,10 +2799,10 @@
         "team": "Crystal Palace",
         "element_type": 4,
         "global_selected": 0.7,
-        "Top_10k_selected": 0.05,
+        "Top_10k_selected": 0.17,
         "now_cost": 6.0,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 5,
+        "last_gw_minutes": 82
     },
     {
         "player_id": 223,
@@ -2821,10 +2821,10 @@
         "team": "Crystal Palace",
         "element_type": 4,
         "global_selected": 0.5,
-        "Top_10k_selected": 0.01,
+        "Top_10k_selected": 0.02,
         "now_cost": 5.5,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 7
     },
     {
         "player_id": 225,
@@ -2845,8 +2845,8 @@
         "global_selected": 0.1,
         "Top_10k_selected": 0.0,
         "now_cost": 5.3,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 1
     },
     {
         "player_id": 555,
@@ -2876,10 +2876,10 @@
         "team": "Crystal Palace",
         "element_type": 2,
         "global_selected": 0.3,
-        "Top_10k_selected": 0.22,
+        "Top_10k_selected": 0.26,
         "now_cost": 5.0,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 2,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 595,
@@ -2900,8 +2900,8 @@
         "global_selected": 0.0,
         "Top_10k_selected": 0.0,
         "now_cost": 4.5,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 18
     },
     {
         "player_id": 643,
@@ -2922,8 +2922,8 @@
         "global_selected": 0.0,
         "Top_10k_selected": 0.0,
         "now_cost": 5.0,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 7,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 647,
@@ -2955,8 +2955,8 @@
         "global_selected": 0.1,
         "Top_10k_selected": 0.0,
         "now_cost": 5.9,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 2,
+        "last_gw_minutes": 65
     },
     {
         "player_id": 226,
@@ -2964,10 +2964,10 @@
         "team": "Everton",
         "element_type": 1,
         "global_selected": 9.1,
-        "Top_10k_selected": 0.99,
+        "Top_10k_selected": 1.39,
         "now_cost": 5.5,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 227,
@@ -2996,11 +2996,11 @@
         "web_name": "Tarkowski",
         "team": "Everton",
         "element_type": 2,
-        "global_selected": 18.2,
-        "Top_10k_selected": 12.04,
+        "global_selected": 18.3,
+        "Top_10k_selected": 16.71,
         "now_cost": 6.2,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 3,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 230,
@@ -3008,10 +3008,10 @@
         "team": "Everton",
         "element_type": 2,
         "global_selected": 2.6,
-        "Top_10k_selected": 0.64,
+        "Top_10k_selected": 0.95,
         "now_cost": 5.5,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 3,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 231,
@@ -3021,8 +3021,8 @@
         "global_selected": 0.7,
         "Top_10k_selected": 0.0,
         "now_cost": 4.8,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 232,
@@ -3032,16 +3032,16 @@
         "global_selected": 0.3,
         "Top_10k_selected": 0.0,
         "now_cost": 4.8,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 12
     },
     {
         "player_id": 233,
         "web_name": "Mykolenko",
         "team": "Everton",
         "element_type": 2,
-        "global_selected": 3.5,
-        "Top_10k_selected": 1.44,
+        "global_selected": 3.4,
+        "Top_10k_selected": 1.37,
         "now_cost": 4.6,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -3073,11 +3073,11 @@
         "web_name": "Dewsbury-Hall",
         "team": "Everton",
         "element_type": 3,
-        "global_selected": 5.5,
-        "Top_10k_selected": 3.24,
+        "global_selected": 5.6,
+        "Top_10k_selected": 11.91,
         "now_cost": 6.6,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 13,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 238,
@@ -3085,10 +3085,10 @@
         "team": "Everton",
         "element_type": 3,
         "global_selected": 0.5,
-        "Top_10k_selected": 0.08,
+        "Top_10k_selected": 0.13,
         "now_cost": 6.5,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 2,
+        "last_gw_minutes": 85
     },
     {
         "player_id": 239,
@@ -3096,10 +3096,10 @@
         "team": "Everton",
         "element_type": 3,
         "global_selected": 0.2,
-        "Top_10k_selected": 0.07,
+        "Top_10k_selected": 0.05,
         "now_cost": 6.0,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 4,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 242,
@@ -3107,10 +3107,10 @@
         "team": "Everton",
         "element_type": 3,
         "global_selected": 0.8,
-        "Top_10k_selected": 0.11,
+        "Top_10k_selected": 0.08,
         "now_cost": 5.5,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 24
     },
     {
         "player_id": 243,
@@ -3120,8 +3120,8 @@
         "global_selected": 0.1,
         "Top_10k_selected": 0.0,
         "now_cost": 4.9,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 4
     },
     {
         "player_id": 244,
@@ -3129,10 +3129,10 @@
         "team": "Everton",
         "element_type": 3,
         "global_selected": 0.4,
-        "Top_10k_selected": 0.02,
+        "Top_10k_selected": 0.03,
         "now_cost": 5.0,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 2,
+        "last_gw_minutes": 77
     },
     {
         "player_id": 245,
@@ -3142,8 +3142,8 @@
         "global_selected": 0.0,
         "Top_10k_selected": 0.0,
         "now_cost": 5.3,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 4
     },
     {
         "player_id": 246,
@@ -3164,8 +3164,8 @@
         "global_selected": 0.2,
         "Top_10k_selected": 0.0,
         "now_cost": 5.4,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 12
     },
     {
         "player_id": 248,
@@ -3184,10 +3184,10 @@
         "team": "Everton",
         "element_type": 4,
         "global_selected": 8.6,
-        "Top_10k_selected": 12.62,
+        "Top_10k_selected": 19.57,
         "now_cost": 5.7,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 6,
+        "last_gw_minutes": 85
     },
     {
         "player_id": 649,
@@ -3195,10 +3195,10 @@
         "team": "Everton",
         "element_type": 2,
         "global_selected": 1.5,
-        "Top_10k_selected": 0.22,
+        "Top_10k_selected": 0.48,
         "now_cost": 4.5,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 4,
+        "last_gw_minutes": 77
     },
     {
         "player_id": 654,
@@ -3216,8 +3216,8 @@
         "web_name": "Leno",
         "team": "Fulham",
         "element_type": 1,
-        "global_selected": 4.0,
-        "Top_10k_selected": 1.38,
+        "global_selected": 4.1,
+        "Top_10k_selected": 1.16,
         "now_cost": 4.5,
         "last_gw_points": 2,
         "last_gw_minutes": 90
@@ -3250,7 +3250,7 @@
         "team": "Fulham",
         "element_type": 2,
         "global_selected": 0.2,
-        "Top_10k_selected": 0.0,
+        "Top_10k_selected": 0.06,
         "now_cost": 5.0,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -3261,7 +3261,7 @@
         "team": "Fulham",
         "element_type": 2,
         "global_selected": 1.4,
-        "Top_10k_selected": 0.2,
+        "Top_10k_selected": 0.18,
         "now_cost": 4.5,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -3293,7 +3293,7 @@
         "web_name": "Bassey",
         "team": "Fulham",
         "element_type": 2,
-        "global_selected": 0.9,
+        "global_selected": 1.0,
         "Top_10k_selected": 0.18,
         "now_cost": 4.5,
         "last_gw_points": 2,
@@ -3304,8 +3304,8 @@
         "web_name": "Castagne",
         "team": "Fulham",
         "element_type": 2,
-        "global_selected": 1.3,
-        "Top_10k_selected": 0.29,
+        "global_selected": 1.2,
+        "Top_10k_selected": 0.3,
         "now_cost": 4.5,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -3316,7 +3316,7 @@
         "team": "Fulham",
         "element_type": 3,
         "global_selected": 0.7,
-        "Top_10k_selected": 0.12,
+        "Top_10k_selected": 0.08,
         "now_cost": 5.4,
         "last_gw_points": 4,
         "last_gw_minutes": 86
@@ -3349,7 +3349,7 @@
         "team": "Fulham",
         "element_type": 3,
         "global_selected": 0.3,
-        "Top_10k_selected": 0.08,
+        "Top_10k_selected": 0.09,
         "now_cost": 5.5,
         "last_gw_points": 3,
         "last_gw_minutes": 75
@@ -3360,7 +3360,7 @@
         "team": "Fulham",
         "element_type": 3,
         "global_selected": 0.3,
-        "Top_10k_selected": 0.02,
+        "Top_10k_selected": 0.05,
         "now_cost": 4.9,
         "last_gw_points": 2,
         "last_gw_minutes": 90
@@ -3382,7 +3382,7 @@
         "team": "Fulham",
         "element_type": 3,
         "global_selected": 4.7,
-        "Top_10k_selected": 10.75,
+        "Top_10k_selected": 8.8,
         "now_cost": 5.6,
         "last_gw_points": 2,
         "last_gw_minutes": 75
@@ -3393,7 +3393,7 @@
         "team": "Fulham",
         "element_type": 2,
         "global_selected": 0.3,
-        "Top_10k_selected": 0.01,
+        "Top_10k_selected": 0.02,
         "now_cost": 4.3,
         "last_gw_points": 7,
         "last_gw_minutes": 90
@@ -3403,7 +3403,7 @@
         "web_name": "Reed",
         "team": "Fulham",
         "element_type": 3,
-        "global_selected": 1.1,
+        "global_selected": 1.0,
         "Top_10k_selected": 0.0,
         "now_cost": 4.4,
         "last_gw_points": 0,
@@ -3426,7 +3426,7 @@
         "team": "Fulham",
         "element_type": 4,
         "global_selected": 5.1,
-        "Top_10k_selected": 0.02,
+        "Top_10k_selected": 0.04,
         "now_cost": 4.5,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -3437,7 +3437,7 @@
         "team": "Fulham",
         "element_type": 4,
         "global_selected": 7.3,
-        "Top_10k_selected": 16.84,
+        "Top_10k_selected": 12.67,
         "now_cost": 6.1,
         "last_gw_points": 2,
         "last_gw_minutes": 86
@@ -3459,7 +3459,7 @@
         "team": "Fulham",
         "element_type": 3,
         "global_selected": 0.1,
-        "Top_10k_selected": 0.0,
+        "Top_10k_selected": 0.02,
         "now_cost": 5.0,
         "last_gw_points": 3,
         "last_gw_minutes": 70
@@ -3480,7 +3480,7 @@
         "web_name": "Zepa",
         "team": "Fulham",
         "element_type": 3,
-        "global_selected": 0.3,
+        "global_selected": 0.4,
         "Top_10k_selected": 0.01,
         "now_cost": 4.4,
         "last_gw_points": 0,
@@ -3514,7 +3514,7 @@
         "team": "Fulham",
         "element_type": 2,
         "global_selected": 0.6,
-        "Top_10k_selected": 1.4,
+        "Top_10k_selected": 1.08,
         "now_cost": 4.5,
         "last_gw_points": 3,
         "last_gw_minutes": 90
@@ -3527,8 +3527,8 @@
         "global_selected": 0.0,
         "Top_10k_selected": 0.0,
         "now_cost": 5.0,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 25
     },
     {
         "player_id": 273,
@@ -3580,10 +3580,10 @@
         "team": "Hull City",
         "element_type": 2,
         "global_selected": 7.4,
-        "Top_10k_selected": 1.95,
+        "Top_10k_selected": 1.77,
         "now_cost": 4.1,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 278,
@@ -3601,11 +3601,11 @@
         "web_name": "Ajayi",
         "team": "Hull City",
         "element_type": 2,
-        "global_selected": 14.0,
-        "Top_10k_selected": 0.78,
+        "global_selected": 13.9,
+        "Top_10k_selected": 0.88,
         "now_cost": 4.2,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 280,
@@ -3613,10 +3613,10 @@
         "team": "Hull City",
         "element_type": 2,
         "global_selected": 0.7,
-        "Top_10k_selected": 0.0,
+        "Top_10k_selected": 0.01,
         "now_cost": 4.0,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 281,
@@ -3635,10 +3635,10 @@
         "team": "Hull City",
         "element_type": 2,
         "global_selected": 3.0,
-        "Top_10k_selected": 0.28,
+        "Top_10k_selected": 0.26,
         "now_cost": 4.0,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 2,
+        "last_gw_minutes": 63
     },
     {
         "player_id": 283,
@@ -3678,11 +3678,11 @@
         "web_name": "Belloumi",
         "team": "Hull City",
         "element_type": 3,
-        "global_selected": 6.1,
-        "Top_10k_selected": 0.84,
-        "now_cost": 5.1,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "global_selected": 6.8,
+        "Top_10k_selected": 2.2,
+        "now_cost": 5.2,
+        "last_gw_points": 6,
+        "last_gw_minutes": 26
     },
     {
         "player_id": 287,
@@ -3714,19 +3714,19 @@
         "global_selected": 0.5,
         "Top_10k_selected": 0.0,
         "now_cost": 4.4,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 64
     },
     {
         "player_id": 290,
         "web_name": "Slater",
         "team": "Hull City",
         "element_type": 3,
-        "global_selected": 5.1,
-        "Top_10k_selected": 0.3,
+        "global_selected": 5.0,
+        "Top_10k_selected": 0.31,
         "now_cost": 4.5,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 2,
+        "last_gw_minutes": 74
     },
     {
         "player_id": 291,
@@ -3777,11 +3777,11 @@
         "web_name": "McBurnie",
         "team": "Hull City",
         "element_type": 4,
-        "global_selected": 1.9,
-        "Top_10k_selected": 0.08,
+        "global_selected": 1.8,
+        "Top_10k_selected": 0.09,
         "now_cost": 5.5,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 296,
@@ -3835,8 +3835,8 @@
         "global_selected": 0.0,
         "Top_10k_selected": 0.0,
         "now_cost": 5.0,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 8,
+        "last_gw_minutes": 64
     },
     {
         "player_id": 556,
@@ -3857,19 +3857,19 @@
         "global_selected": 0.0,
         "Top_10k_selected": 0.0,
         "now_cost": 4.9,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 15
     },
     {
         "player_id": 572,
         "web_name": "Tzolakis",
         "team": "Hull City",
         "element_type": 1,
-        "global_selected": 13.3,
-        "Top_10k_selected": 1.24,
+        "global_selected": 13.4,
+        "Top_10k_selected": 1.94,
         "now_cost": 4.7,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 2,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 574,
@@ -3890,8 +3890,8 @@
         "global_selected": 0.1,
         "Top_10k_selected": 0.0,
         "now_cost": 5.0,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 4,
+        "last_gw_minutes": 26
     },
     {
         "player_id": 585,
@@ -3899,7 +3899,7 @@
         "team": "Hull City",
         "element_type": 2,
         "global_selected": 0.6,
-        "Top_10k_selected": 0.01,
+        "Top_10k_selected": 0.03,
         "now_cost": 4.0,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -3910,10 +3910,10 @@
         "team": "Hull City",
         "element_type": 2,
         "global_selected": 6.2,
-        "Top_10k_selected": 0.63,
+        "Top_10k_selected": 0.73,
         "now_cost": 4.1,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 3,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 589,
@@ -3944,7 +3944,7 @@
         "element_type": 4,
         "global_selected": 0.0,
         "Top_10k_selected": 0.0,
-        "now_cost": 5.0,
+        "now_cost": 4.9,
         "last_gw_points": 0,
         "last_gw_minutes": 0
     },
@@ -3956,8 +3956,8 @@
         "global_selected": 0.1,
         "Top_10k_selected": 0.0,
         "now_cost": 5.0,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 4
     },
     {
         "player_id": 638,
@@ -3978,8 +3978,8 @@
         "global_selected": 0.0,
         "Top_10k_selected": 0.0,
         "now_cost": 5.5,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 7,
+        "last_gw_minutes": 85
     },
     {
         "player_id": 645,
@@ -3997,8 +3997,8 @@
         "web_name": "Diop",
         "team": "Ipswich Town",
         "element_type": 2,
-        "global_selected": 11.8,
-        "Top_10k_selected": 1.3,
+        "global_selected": 11.7,
+        "Top_10k_selected": 1.26,
         "now_cost": 4.0,
         "last_gw_points": 2,
         "last_gw_minutes": 90
@@ -4031,7 +4031,7 @@
         "team": "Ipswich Town",
         "element_type": 1,
         "global_selected": 3.8,
-        "Top_10k_selected": 0.03,
+        "Top_10k_selected": 0.09,
         "now_cost": 4.0,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -4042,7 +4042,7 @@
         "team": "Ipswich Town",
         "element_type": 1,
         "global_selected": 0.6,
-        "Top_10k_selected": 0.01,
+        "Top_10k_selected": 0.06,
         "now_cost": 4.0,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -4064,7 +4064,7 @@
         "team": "Ipswich Town",
         "element_type": 2,
         "global_selected": 2.5,
-        "Top_10k_selected": 1.75,
+        "Top_10k_selected": 1.59,
         "now_cost": 4.0,
         "last_gw_points": 11,
         "last_gw_minutes": 90
@@ -4075,7 +4075,7 @@
         "team": "Ipswich Town",
         "element_type": 2,
         "global_selected": 7.7,
-        "Top_10k_selected": 3.28,
+        "Top_10k_selected": 3.2,
         "now_cost": 4.0,
         "last_gw_points": 1,
         "last_gw_minutes": 90
@@ -4086,7 +4086,7 @@
         "team": "Ipswich Town",
         "element_type": 2,
         "global_selected": 1.2,
-        "Top_10k_selected": 0.01,
+        "Top_10k_selected": 0.0,
         "now_cost": 3.9,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -4196,7 +4196,7 @@
         "team": "Ipswich Town",
         "element_type": 4,
         "global_selected": 4.0,
-        "Top_10k_selected": 0.37,
+        "Top_10k_selected": 0.38,
         "now_cost": 5.6,
         "last_gw_points": 2,
         "last_gw_minutes": 70
@@ -4251,7 +4251,7 @@
         "team": "Ipswich Town",
         "element_type": 4,
         "global_selected": 3.5,
-        "Top_10k_selected": 0.02,
+        "Top_10k_selected": 0.08,
         "now_cost": 4.5,
         "last_gw_points": 1,
         "last_gw_minutes": 9
@@ -4317,7 +4317,7 @@
         "team": "Ipswich Town",
         "element_type": 1,
         "global_selected": 0.5,
-        "Top_10k_selected": 0.05,
+        "Top_10k_selected": 0.04,
         "now_cost": 4.5,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -4339,7 +4339,7 @@
         "team": "Ipswich Town",
         "element_type": 3,
         "global_selected": 0.8,
-        "Top_10k_selected": 0.08,
+        "Top_10k_selected": 0.04,
         "now_cost": 5.5,
         "last_gw_points": 2,
         "last_gw_minutes": 70
@@ -4350,7 +4350,7 @@
         "team": "Ipswich Town",
         "element_type": 2,
         "global_selected": 0.8,
-        "Top_10k_selected": 0.0,
+        "Top_10k_selected": 0.01,
         "now_cost": 4.0,
         "last_gw_points": 10,
         "last_gw_minutes": 90
@@ -4415,7 +4415,7 @@
         "web_name": "Bijol",
         "team": "Leeds",
         "element_type": 2,
-        "global_selected": 0.7,
+        "global_selected": 0.6,
         "Top_10k_selected": 0.0,
         "now_cost": 5.0,
         "last_gw_points": 1,
@@ -4437,9 +4437,9 @@
         "web_name": "Bogle",
         "team": "Leeds",
         "element_type": 2,
-        "global_selected": 8.4,
-        "Top_10k_selected": 0.4,
-        "now_cost": 4.6,
+        "global_selected": 8.7,
+        "Top_10k_selected": 0.5,
+        "now_cost": 4.7,
         "last_gw_points": 1,
         "last_gw_minutes": 85
     },
@@ -4460,7 +4460,7 @@
         "team": "Leeds",
         "element_type": 2,
         "global_selected": 1.5,
-        "Top_10k_selected": 0.08,
+        "Top_10k_selected": 0.07,
         "now_cost": 4.5,
         "last_gw_points": 6,
         "last_gw_minutes": 78
@@ -4482,7 +4482,7 @@
         "team": "Leeds",
         "element_type": 2,
         "global_selected": 4.5,
-        "Top_10k_selected": 1.85,
+        "Top_10k_selected": 1.71,
         "now_cost": 5.0,
         "last_gw_points": 2,
         "last_gw_minutes": 90
@@ -4493,7 +4493,7 @@
         "team": "Leeds",
         "element_type": 3,
         "global_selected": 2.4,
-        "Top_10k_selected": 0.16,
+        "Top_10k_selected": 0.15,
         "now_cost": 6.0,
         "last_gw_points": 2,
         "last_gw_minutes": 90
@@ -4526,7 +4526,7 @@
         "team": "Leeds",
         "element_type": 3,
         "global_selected": 0.9,
-        "Top_10k_selected": 0.07,
+        "Top_10k_selected": 0.02,
         "now_cost": 5.4,
         "last_gw_points": 1,
         "last_gw_minutes": 90
@@ -4602,8 +4602,8 @@
         "web_name": "Calvert-Lewin",
         "team": "Leeds",
         "element_type": 4,
-        "global_selected": 22.7,
-        "Top_10k_selected": 6.44,
+        "global_selected": 22.6,
+        "Top_10k_selected": 6.75,
         "now_cost": 6.0,
         "last_gw_points": 2,
         "last_gw_minutes": 90
@@ -4647,7 +4647,7 @@
         "team": "Leeds",
         "element_type": 1,
         "global_selected": 5.6,
-        "Top_10k_selected": 0.44,
+        "Top_10k_selected": 0.59,
         "now_cost": 5.0,
         "last_gw_points": 2,
         "last_gw_minutes": 90
@@ -4735,10 +4735,10 @@
         "team": "Liverpool",
         "element_type": 1,
         "global_selected": 4.3,
-        "Top_10k_selected": 0.15,
+        "Top_10k_selected": 0.22,
         "now_cost": 5.5,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 351,
@@ -4800,22 +4800,22 @@
         "web_name": "Virgil",
         "team": "Liverpool",
         "element_type": 2,
-        "global_selected": 16.0,
-        "Top_10k_selected": 0.64,
+        "global_selected": 15.9,
+        "Top_10k_selected": 0.83,
         "now_cost": 6.5,
         "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_minutes": 90
     },
     {
         "player_id": 357,
         "web_name": "Frimpong",
         "team": "Liverpool",
         "element_type": 2,
-        "global_selected": 1.7,
+        "global_selected": 1.6,
         "Top_10k_selected": 0.0,
         "now_cost": 5.3,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 15
     },
     {
         "player_id": 358,
@@ -4823,10 +4823,10 @@
         "team": "Liverpool",
         "element_type": 2,
         "global_selected": 2.1,
-        "Top_10k_selected": 0.02,
+        "Top_10k_selected": 0.05,
         "now_cost": 5.3,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 359,
@@ -4836,8 +4836,8 @@
         "global_selected": 0.0,
         "Top_10k_selected": 0.0,
         "now_cost": 4.9,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 2
     },
     {
         "player_id": 360,
@@ -4866,11 +4866,11 @@
         "web_name": "Jacquet",
         "team": "Liverpool",
         "element_type": 2,
-        "global_selected": 3.6,
-        "Top_10k_selected": 0.23,
+        "global_selected": 3.7,
+        "Top_10k_selected": 0.42,
         "now_cost": 5.0,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 3,
+        "last_gw_minutes": 87
     },
     {
         "player_id": 363,
@@ -4910,20 +4910,20 @@
         "web_name": "Wirtz",
         "team": "Liverpool",
         "element_type": 3,
-        "global_selected": 5.4,
-        "Top_10k_selected": 0.75,
+        "global_selected": 5.3,
+        "Top_10k_selected": 0.85,
         "now_cost": 7.3,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 2,
+        "last_gw_minutes": 65
     },
     {
         "player_id": 367,
         "web_name": "Gakpo",
         "team": "Liverpool",
         "element_type": 3,
-        "global_selected": 8.9,
-        "Top_10k_selected": 0.15,
-        "now_cost": 7.2,
+        "global_selected": 8.3,
+        "Top_10k_selected": 0.21,
+        "now_cost": 7.1,
         "last_gw_points": 0,
         "last_gw_minutes": 0
     },
@@ -4932,8 +4932,8 @@
         "web_name": "Szoboszlai",
         "team": "Liverpool",
         "element_type": 3,
-        "global_selected": 30.1,
-        "Top_10k_selected": 15.23,
+        "global_selected": 29.0,
+        "Top_10k_selected": 12.24,
         "now_cost": 6.9,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -4946,8 +4946,8 @@
         "global_selected": 0.4,
         "Top_10k_selected": 0.0,
         "now_cost": 5.7,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 15
     },
     {
         "player_id": 370,
@@ -4957,8 +4957,8 @@
         "global_selected": 0.0,
         "Top_10k_selected": 0.0,
         "now_cost": 5.3,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 2
     },
     {
         "player_id": 371,
@@ -4968,8 +4968,8 @@
         "global_selected": 1.0,
         "Top_10k_selected": 0.0,
         "now_cost": 5.8,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": -1,
+        "last_gw_minutes": 61
     },
     {
         "player_id": 372,
@@ -4977,10 +4977,10 @@
         "team": "Liverpool",
         "element_type": 3,
         "global_selected": 1.3,
-        "Top_10k_selected": 0.0,
+        "Top_10k_selected": 0.03,
         "now_cost": 5.4,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 2,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 373,
@@ -5012,8 +5012,8 @@
         "global_selected": 0.0,
         "Top_10k_selected": 0.0,
         "now_cost": 4.8,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 24
     },
     {
         "player_id": 376,
@@ -5034,8 +5034,8 @@
         "global_selected": 0.8,
         "Top_10k_selected": 0.01,
         "now_cost": 6.5,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 2,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 378,
@@ -5053,8 +5053,8 @@
         "web_name": "Isak",
         "team": "Liverpool",
         "element_type": 4,
-        "global_selected": 16.0,
-        "Top_10k_selected": 1.17,
+        "global_selected": 15.2,
+        "Top_10k_selected": 1.02,
         "now_cost": 9.0,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -5078,8 +5078,8 @@
         "global_selected": 0.0,
         "Top_10k_selected": 0.0,
         "now_cost": 5.0,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 2,
+        "last_gw_minutes": 74
     },
     {
         "player_id": 382,
@@ -5109,10 +5109,10 @@
         "team": "Liverpool",
         "element_type": 2,
         "global_selected": 3.1,
-        "Top_10k_selected": 0.05,
+        "Top_10k_selected": 0.08,
         "now_cost": 5.4,
         "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_minutes": 74
     },
     {
         "player_id": 627,
@@ -5120,10 +5120,10 @@
         "team": "Liverpool",
         "element_type": 3,
         "global_selected": 2.0,
-        "Top_10k_selected": 0.18,
+        "Top_10k_selected": 0.22,
         "now_cost": 8.0,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 2,
+        "last_gw_minutes": 87
     },
     {
         "player_id": 155,
@@ -5133,30 +5133,30 @@
         "global_selected": 3.8,
         "Top_10k_selected": 0.32,
         "now_cost": 6.9,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 3,
+        "last_gw_minutes": 79
     },
     {
         "player_id": 237,
         "web_name": "Ndiaye",
         "team": "Man City",
         "element_type": 3,
-        "global_selected": 6.0,
-        "Top_10k_selected": 0.9,
+        "global_selected": 5.8,
+        "Top_10k_selected": 0.95,
         "now_cost": 5.8,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 55
     },
     {
         "player_id": 384,
         "web_name": "Donnarumma",
         "team": "Man City",
         "element_type": 1,
-        "global_selected": 7.4,
-        "Top_10k_selected": 0.14,
+        "global_selected": 7.5,
+        "Top_10k_selected": 0.49,
         "now_cost": 5.5,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 9,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 386,
@@ -5165,7 +5165,7 @@
         "element_type": 1,
         "global_selected": 0.0,
         "Top_10k_selected": 0.0,
-        "now_cost": 4.5,
+        "now_cost": 4.4,
         "last_gw_points": 0,
         "last_gw_minutes": 0
     },
@@ -5175,10 +5175,10 @@
         "team": "Man City",
         "element_type": 2,
         "global_selected": 9.5,
-        "Top_10k_selected": 0.04,
+        "Top_10k_selected": 0.02,
         "now_cost": 6.3,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 5,
+        "last_gw_minutes": 65
     },
     {
         "player_id": 388,
@@ -5186,10 +5186,10 @@
         "team": "Man City",
         "element_type": 2,
         "global_selected": 17.9,
-        "Top_10k_selected": 0.58,
+        "Top_10k_selected": 1.63,
         "now_cost": 6.0,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 6,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 389,
@@ -5197,10 +5197,10 @@
         "team": "Man City",
         "element_type": 2,
         "global_selected": 1.0,
-        "Top_10k_selected": 0.0,
+        "Top_10k_selected": 0.01,
         "now_cost": 5.9,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 6,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 390,
@@ -5210,19 +5210,19 @@
         "global_selected": 1.9,
         "Top_10k_selected": 0.03,
         "now_cost": 5.5,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 6,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 391,
         "web_name": "Gvardiol",
         "team": "Man City",
         "element_type": 2,
-        "global_selected": 27.6,
-        "Top_10k_selected": 13.54,
+        "global_selected": 27.8,
+        "Top_10k_selected": 21.57,
         "now_cost": 5.8,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 4,
+        "last_gw_minutes": 24
     },
     {
         "player_id": 392,
@@ -5275,7 +5275,7 @@
         "element_type": 2,
         "global_selected": 0.0,
         "Top_10k_selected": 0.0,
-        "now_cost": 4.5,
+        "now_cost": 4.4,
         "last_gw_points": 0,
         "last_gw_minutes": 0
     },
@@ -5284,11 +5284,11 @@
         "web_name": "Semenyo",
         "team": "Man City",
         "element_type": 3,
-        "global_selected": 13.5,
-        "Top_10k_selected": 4.85,
-        "now_cost": 8.4,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "global_selected": 13.6,
+        "Top_10k_selected": 6.45,
+        "now_cost": 8.3,
+        "last_gw_points": 3,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 398,
@@ -5296,7 +5296,7 @@
         "team": "Man City",
         "element_type": 3,
         "global_selected": 1.5,
-        "Top_10k_selected": 0.01,
+        "Top_10k_selected": 0.0,
         "now_cost": 6.8,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -5306,22 +5306,22 @@
         "web_name": "Cherki",
         "team": "Man City",
         "element_type": 3,
-        "global_selected": 28.9,
-        "Top_10k_selected": 5.73,
+        "global_selected": 30.2,
+        "Top_10k_selected": 16.41,
         "now_cost": 7.8,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 10,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 400,
         "web_name": "Doku",
         "team": "Man City",
         "element_type": 3,
-        "global_selected": 0.8,
+        "global_selected": 1.0,
         "Top_10k_selected": 0.01,
         "now_cost": 7.4,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 12,
+        "last_gw_minutes": 34
     },
     {
         "player_id": 402,
@@ -5405,11 +5405,11 @@
         "web_name": "Haaland",
         "team": "Man City",
         "element_type": 4,
-        "global_selected": 74.6,
-        "Top_10k_selected": 94.6,
+        "global_selected": 74.9,
+        "Top_10k_selected": 96.95,
         "now_cost": 15.6,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 6,
+        "last_gw_minutes": 79
     },
     {
         "player_id": 481,
@@ -5417,10 +5417,10 @@
         "team": "Man City",
         "element_type": 3,
         "global_selected": 3.8,
-        "Top_10k_selected": 0.13,
+        "Top_10k_selected": 0.17,
         "now_cost": 6.3,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 6,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 587,
@@ -5442,7 +5442,7 @@
         "Top_10k_selected": 0.0,
         "now_cost": 5.5,
         "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_minutes": 10
     },
     {
         "player_id": 621,
@@ -5474,8 +5474,8 @@
         "global_selected": 0.0,
         "Top_10k_selected": 0.0,
         "now_cost": 6.0,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 10
     },
     {
         "player_id": 653,
@@ -5494,7 +5494,7 @@
         "team": "Man Utd",
         "element_type": 3,
         "global_selected": 1.4,
-        "Top_10k_selected": 0.01,
+        "Top_10k_selected": 0.03,
         "now_cost": 5.8,
         "last_gw_points": 3,
         "last_gw_minutes": 58
@@ -5517,7 +5517,7 @@
         "element_type": 3,
         "global_selected": 0.5,
         "Top_10k_selected": 0.0,
-        "now_cost": 4.8,
+        "now_cost": 4.7,
         "last_gw_points": 0,
         "last_gw_minutes": 0
     },
@@ -5537,8 +5537,8 @@
         "web_name": "Lammens",
         "team": "Man Utd",
         "element_type": 1,
-        "global_selected": 9.4,
-        "Top_10k_selected": 0.81,
+        "global_selected": 9.3,
+        "Top_10k_selected": 0.9,
         "now_cost": 4.9,
         "last_gw_points": 2,
         "last_gw_minutes": 90
@@ -5592,9 +5592,9 @@
         "web_name": "Dalot",
         "team": "Man Utd",
         "element_type": 2,
-        "global_selected": 1.6,
-        "Top_10k_selected": 0.0,
-        "now_cost": 4.9,
+        "global_selected": 1.5,
+        "Top_10k_selected": 0.02,
+        "now_cost": 4.8,
         "last_gw_points": 0,
         "last_gw_minutes": 31
     },
@@ -5603,8 +5603,8 @@
         "web_name": "Maguire",
         "team": "Man Utd",
         "element_type": 2,
-        "global_selected": 7.7,
-        "Top_10k_selected": 1.97,
+        "global_selected": 7.6,
+        "Top_10k_selected": 1.79,
         "now_cost": 4.8,
         "last_gw_points": 2,
         "last_gw_minutes": 90
@@ -5636,7 +5636,7 @@
         "web_name": "Heaven",
         "team": "Man Utd",
         "element_type": 2,
-        "global_selected": 0.3,
+        "global_selected": 0.2,
         "Top_10k_selected": 0.0,
         "now_cost": 4.3,
         "last_gw_points": 1,
@@ -5647,7 +5647,7 @@
         "web_name": "Mazraoui",
         "team": "Man Utd",
         "element_type": 2,
-        "global_selected": 0.5,
+        "global_selected": 0.4,
         "Top_10k_selected": 0.0,
         "now_cost": 4.4,
         "last_gw_points": 0,
@@ -5658,8 +5658,8 @@
         "web_name": "Shaw",
         "team": "Man Utd",
         "element_type": 2,
-        "global_selected": 7.0,
-        "Top_10k_selected": 1.57,
+        "global_selected": 6.9,
+        "Top_10k_selected": 1.46,
         "now_cost": 4.3,
         "last_gw_points": 3,
         "last_gw_minutes": 90
@@ -5691,8 +5691,8 @@
         "web_name": "B.Fernandes",
         "team": "Man Utd",
         "element_type": 3,
-        "global_selected": 36.7,
-        "Top_10k_selected": 14.96,
+        "global_selected": 35.6,
+        "Top_10k_selected": 13.08,
         "now_cost": 11.9,
         "last_gw_points": 1,
         "last_gw_minutes": 90
@@ -5702,8 +5702,8 @@
         "web_name": "Mbeumo",
         "team": "Man Utd",
         "element_type": 3,
-        "global_selected": 19.9,
-        "Top_10k_selected": 20.14,
+        "global_selected": 20.0,
+        "Top_10k_selected": 19.32,
         "now_cost": 7.9,
         "last_gw_points": 8,
         "last_gw_minutes": 90
@@ -5713,8 +5713,8 @@
         "web_name": "Cunha",
         "team": "Man Utd",
         "element_type": 3,
-        "global_selected": 6.1,
-        "Top_10k_selected": 0.95,
+        "global_selected": 6.3,
+        "Top_10k_selected": 1.15,
         "now_cost": 7.9,
         "last_gw_points": 10,
         "last_gw_minutes": 90
@@ -5912,7 +5912,7 @@
         "team": "Newcastle",
         "element_type": 2,
         "global_selected": 2.2,
-        "Top_10k_selected": 1.15,
+        "Top_10k_selected": 1.06,
         "now_cost": 5.0,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -5934,7 +5934,7 @@
         "team": "Newcastle",
         "element_type": 2,
         "global_selected": 0.8,
-        "Top_10k_selected": 0.15,
+        "Top_10k_selected": 0.17,
         "now_cost": 5.0,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -5955,8 +5955,8 @@
         "web_name": "Hall",
         "team": "Newcastle",
         "element_type": 2,
-        "global_selected": 20.8,
-        "Top_10k_selected": 43.13,
+        "global_selected": 20.9,
+        "Top_10k_selected": 39.31,
         "now_cost": 5.3,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -5988,8 +5988,8 @@
         "web_name": "Barnes",
         "team": "Newcastle",
         "element_type": 3,
-        "global_selected": 8.2,
-        "Top_10k_selected": 15.54,
+        "global_selected": 8.3,
+        "Top_10k_selected": 13.54,
         "now_cost": 6.1,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -5999,8 +5999,8 @@
         "web_name": "Elanga",
         "team": "Newcastle",
         "element_type": 3,
-        "global_selected": 3.3,
-        "Top_10k_selected": 0.05,
+        "global_selected": 3.2,
+        "Top_10k_selected": 0.03,
         "now_cost": 6.1,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -6055,7 +6055,7 @@
         "team": "Newcastle",
         "element_type": 3,
         "global_selected": 0.6,
-        "Top_10k_selected": 0.17,
+        "Top_10k_selected": 0.13,
         "now_cost": 5.0,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -6098,8 +6098,8 @@
         "web_name": "Wissa",
         "team": "Newcastle",
         "element_type": 4,
-        "global_selected": 19.0,
-        "Top_10k_selected": 19.0,
+        "global_selected": 18.8,
+        "Top_10k_selected": 15.02,
         "now_cost": 6.3,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -6133,7 +6133,7 @@
         "element_type": 3,
         "global_selected": 0.1,
         "Top_10k_selected": 0.0,
-        "now_cost": 4.9,
+        "now_cost": 4.8,
         "last_gw_points": 0,
         "last_gw_minutes": 0
     },
@@ -6143,7 +6143,7 @@
         "team": "Newcastle",
         "element_type": 1,
         "global_selected": 1.5,
-        "Top_10k_selected": 0.46,
+        "Top_10k_selected": 0.54,
         "now_cost": 5.0,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -6154,7 +6154,7 @@
         "team": "Newcastle",
         "element_type": 2,
         "global_selected": 1.4,
-        "Top_10k_selected": 0.1,
+        "Top_10k_selected": 0.09,
         "now_cost": 4.5,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -6186,7 +6186,7 @@
         "web_name": "Miley",
         "team": "Newcastle",
         "element_type": 3,
-        "global_selected": 0.0,
+        "global_selected": 0.1,
         "Top_10k_selected": 0.01,
         "now_cost": 4.5,
         "last_gw_points": 0,
@@ -6241,22 +6241,22 @@
         "web_name": "Delap",
         "team": "Nott'm Forest",
         "element_type": 4,
-        "global_selected": 2.4,
-        "Top_10k_selected": 0.36,
+        "global_selected": 2.3,
+        "Top_10k_selected": 0.59,
         "now_cost": 5.6,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 2,
+        "last_gw_minutes": 71
     },
     {
         "player_id": 201,
         "web_name": "Muñoz",
         "team": "Nott'm Forest",
         "element_type": 2,
-        "global_selected": 5.4,
-        "Top_10k_selected": 0.67,
+        "global_selected": 5.3,
+        "Top_10k_selected": 0.79,
         "now_cost": 5.4,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 467,
@@ -6264,10 +6264,10 @@
         "team": "Nott'm Forest",
         "element_type": 1,
         "global_selected": 1.5,
-        "Top_10k_selected": 0.08,
+        "Top_10k_selected": 0.18,
         "now_cost": 5.0,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 2,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 468,
@@ -6285,11 +6285,11 @@
         "web_name": "N.Williams",
         "team": "Nott'm Forest",
         "element_type": 2,
-        "global_selected": 7.1,
-        "Top_10k_selected": 0.78,
+        "global_selected": 7.0,
+        "Top_10k_selected": 0.9,
         "now_cost": 5.0,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 470,
@@ -6319,10 +6319,10 @@
         "team": "Nott'm Forest",
         "element_type": 2,
         "global_selected": 2.2,
-        "Top_10k_selected": 0.12,
+        "Top_10k_selected": 0.17,
         "now_cost": 5.5,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 2,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 473,
@@ -6330,10 +6330,10 @@
         "team": "Nott'm Forest",
         "element_type": 2,
         "global_selected": 2.1,
-        "Top_10k_selected": 0.11,
+        "Top_10k_selected": 0.09,
         "now_cost": 4.4,
         "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_minutes": 82
     },
     {
         "player_id": 474,
@@ -6341,7 +6341,7 @@
         "team": "Nott'm Forest",
         "element_type": 2,
         "global_selected": 0.2,
-        "Top_10k_selected": 0.01,
+        "Top_10k_selected": 0.03,
         "now_cost": 4.5,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -6406,11 +6406,11 @@
         "web_name": "Gibbs-White",
         "team": "Nott'm Forest",
         "element_type": 3,
-        "global_selected": 15.7,
-        "Top_10k_selected": 18.12,
+        "global_selected": 15.2,
+        "Top_10k_selected": 21.5,
         "now_cost": 8.0,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 2,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 482,
@@ -6420,8 +6420,8 @@
         "global_selected": 0.1,
         "Top_10k_selected": 0.0,
         "now_cost": 5.8,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 18
     },
     {
         "player_id": 483,
@@ -6429,10 +6429,10 @@
         "team": "Nott'm Forest",
         "element_type": 3,
         "global_selected": 0.6,
-        "Top_10k_selected": 0.03,
+        "Top_10k_selected": 0.05,
         "now_cost": 5.5,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 7,
+        "last_gw_minutes": 71
     },
     {
         "player_id": 484,
@@ -6462,10 +6462,10 @@
         "team": "Nott'm Forest",
         "element_type": 3,
         "global_selected": 0.1,
-        "Top_10k_selected": 0.0,
+        "Top_10k_selected": 0.01,
         "now_cost": 5.5,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 4,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 487,
@@ -6474,7 +6474,7 @@
         "element_type": 3,
         "global_selected": 0.1,
         "Top_10k_selected": 0.0,
-        "now_cost": 4.9,
+        "now_cost": 4.8,
         "last_gw_points": 0,
         "last_gw_minutes": 0
     },
@@ -6486,8 +6486,8 @@
         "global_selected": 0.4,
         "Top_10k_selected": 0.0,
         "now_cost": 4.8,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 24
     },
     {
         "player_id": 489,
@@ -6508,15 +6508,15 @@
         "global_selected": 0.9,
         "Top_10k_selected": 0.0,
         "now_cost": 5.8,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 18
     },
     {
         "player_id": 491,
         "web_name": "Igor Jesus",
         "team": "Nott'm Forest",
         "element_type": 4,
-        "global_selected": 2.1,
+        "global_selected": 2.0,
         "Top_10k_selected": 0.0,
         "now_cost": 5.8,
         "last_gw_points": 0,
@@ -6530,8 +6530,8 @@
         "global_selected": 0.0,
         "Top_10k_selected": 0.0,
         "now_cost": 5.4,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 7
     },
     {
         "player_id": 558,
@@ -6541,8 +6541,8 @@
         "global_selected": 0.1,
         "Top_10k_selected": 0.0,
         "now_cost": 5.0,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 2,
+        "last_gw_minutes": 65
     },
     {
         "player_id": 581,
@@ -6552,8 +6552,8 @@
         "global_selected": 0.5,
         "Top_10k_selected": 0.0,
         "now_cost": 5.4,
-        "last_gw_points": 0,
-        "last_gw_minutes": 0
+        "last_gw_points": 1,
+        "last_gw_minutes": 90
     },
     {
         "player_id": 590,
@@ -6571,8 +6571,8 @@
         "web_name": "Van Hecke",
         "team": "Spurs",
         "element_type": 2,
-        "global_selected": 6.2,
-        "Top_10k_selected": 0.76,
+        "global_selected": 6.3,
+        "Top_10k_selected": 0.66,
         "now_cost": 4.9,
         "last_gw_points": 3,
         "last_gw_minutes": 90
@@ -6594,7 +6594,7 @@
         "team": "Spurs",
         "element_type": 4,
         "global_selected": 2.1,
-        "Top_10k_selected": 0.1,
+        "Top_10k_selected": 0.06,
         "now_cost": 7.0,
         "last_gw_points": 1,
         "last_gw_minutes": 24
@@ -6604,8 +6604,8 @@
         "web_name": "Sávio",
         "team": "Spurs",
         "element_type": 3,
-        "global_selected": 0.6,
-        "Top_10k_selected": 0.05,
+        "global_selected": 0.7,
+        "Top_10k_selected": 0.02,
         "now_cost": 6.5,
         "last_gw_points": 2,
         "last_gw_minutes": 90
@@ -6616,7 +6616,7 @@
         "team": "Spurs",
         "element_type": 3,
         "global_selected": 1.7,
-        "Top_10k_selected": 0.05,
+        "Top_10k_selected": 0.01,
         "now_cost": 5.3,
         "last_gw_points": 7,
         "last_gw_minutes": 90
@@ -6649,7 +6649,7 @@
         "team": "Spurs",
         "element_type": 1,
         "global_selected": 15.8,
-        "Top_10k_selected": 6.83,
+        "Top_10k_selected": 6.59,
         "now_cost": 4.5,
         "last_gw_points": 3,
         "last_gw_minutes": 90
@@ -6659,8 +6659,8 @@
         "web_name": "Dubravka",
         "team": "Spurs",
         "element_type": 1,
-        "global_selected": 17.0,
-        "Top_10k_selected": 0.09,
+        "global_selected": 16.9,
+        "Top_10k_selected": 0.13,
         "now_cost": 4.0,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -6681,8 +6681,8 @@
         "web_name": "Pedro Porro",
         "team": "Spurs",
         "element_type": 2,
-        "global_selected": 6.2,
-        "Top_10k_selected": 0.02,
+        "global_selected": 6.0,
+        "Top_10k_selected": 0.0,
         "now_cost": 5.4,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -6704,7 +6704,7 @@
         "team": "Spurs",
         "element_type": 2,
         "global_selected": 2.4,
-        "Top_10k_selected": 0.03,
+        "Top_10k_selected": 0.04,
         "now_cost": 4.4,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -6715,7 +6715,7 @@
         "team": "Spurs",
         "element_type": 2,
         "global_selected": 3.7,
-        "Top_10k_selected": 0.03,
+        "Top_10k_selected": 0.02,
         "now_cost": 5.0,
         "last_gw_points": 1,
         "last_gw_minutes": 16
@@ -6791,7 +6791,7 @@
         "web_name": "Souza",
         "team": "Spurs",
         "element_type": 2,
-        "global_selected": 0.2,
+        "global_selected": 0.1,
         "Top_10k_selected": 0.0,
         "now_cost": 4.0,
         "last_gw_points": 0,
@@ -6803,7 +6803,7 @@
         "team": "Spurs",
         "element_type": 3,
         "global_selected": 0.2,
-        "Top_10k_selected": 0.0,
+        "Top_10k_selected": 0.02,
         "now_cost": 6.5,
         "last_gw_points": 3,
         "last_gw_minutes": 65
@@ -6836,7 +6836,7 @@
         "team": "Spurs",
         "element_type": 3,
         "global_selected": 0.4,
-        "Top_10k_selected": 0.01,
+        "Top_10k_selected": 0.02,
         "now_cost": 6.3,
         "last_gw_points": 1,
         "last_gw_minutes": 16
@@ -6956,8 +6956,8 @@
         "web_name": "Solanke",
         "team": "Spurs",
         "element_type": 4,
-        "global_selected": 0.8,
-        "Top_10k_selected": 0.0,
+        "global_selected": 1.0,
+        "Top_10k_selected": 0.02,
         "now_cost": 5.8,
         "last_gw_points": 7,
         "last_gw_minutes": 90
@@ -7023,7 +7023,7 @@
         "team": "Sunderland",
         "element_type": 1,
         "global_selected": 2.3,
-        "Top_10k_selected": 0.05,
+        "Top_10k_selected": 0.06,
         "now_cost": 4.9,
         "last_gw_points": 1,
         "last_gw_minutes": 90
@@ -7055,8 +7055,8 @@
         "web_name": "Ballard",
         "team": "Sunderland",
         "element_type": 2,
-        "global_selected": 1.8,
-        "Top_10k_selected": 0.02,
+        "global_selected": 1.7,
+        "Top_10k_selected": 0.01,
         "now_cost": 4.8,
         "last_gw_points": 0,
         "last_gw_minutes": 0
@@ -7078,7 +7078,7 @@
         "team": "Sunderland",
         "element_type": 2,
         "global_selected": 2.3,
-        "Top_10k_selected": 0.11,
+        "Top_10k_selected": 0.12,
         "now_cost": 4.3,
         "last_gw_points": 1,
         "last_gw_minutes": 90
@@ -7165,8 +7165,8 @@
         "web_name": "E.Le Fée",
         "team": "Sunderland",
         "element_type": 3,
-        "global_selected": 3.2,
-        "Top_10k_selected": 1.26,
+        "global_selected": 3.1,
+        "Top_10k_selected": 1.1,
         "now_cost": 5.7,
         "last_gw_points": 2,
         "last_gw_minutes": 80
@@ -7188,7 +7188,7 @@
         "team": "Sunderland",
         "element_type": 3,
         "global_selected": 3.4,
-        "Top_10k_selected": 0.18,
+        "Top_10k_selected": 0.26,
         "now_cost": 5.4,
         "last_gw_points": 2,
         "last_gw_minutes": 90
@@ -7199,7 +7199,7 @@
         "team": "Sunderland",
         "element_type": 3,
         "global_selected": 0.2,
-        "Top_10k_selected": 0.01,
+        "Top_10k_selected": 0.0,
         "now_cost": 4.8,
         "last_gw_points": 3,
         "last_gw_minutes": 90
@@ -7275,8 +7275,8 @@
         "web_name": "Brobbey",
         "team": "Sunderland",
         "element_type": 4,
-        "global_selected": 5.5,
-        "Top_10k_selected": 0.05,
+        "global_selected": 5.3,
+        "Top_10k_selected": 0.08,
         "now_cost": 5.7,
         "last_gw_points": 0,
         "last_gw_minutes": 0
